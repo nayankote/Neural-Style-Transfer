@@ -12,4 +12,4 @@ I felt that this would be a good first project to familiarize myself with tensor
 ![Style Image](/images/monet.jpg)
 
 ## Generated Image
-![Generated Image](/images/
+![Generated Image](/images/generated_image_final.jpg)
